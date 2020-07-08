@@ -1,0 +1,26 @@
+2020-07-01 23:05:24,415:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-01 23:05:24,972:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-01 23:05:38,985:DEBUG:test_formfillhome:Successfully submitted
+2020-07-01 23:09:28,842:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-01 23:09:29,322:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-01 23:09:43,609:DEBUG:test_formfillhome:Successfully submitted
+2020-07-01 23:38:27,444:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-01 23:38:27,953:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-02 01:53:50,560:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-02 01:53:51,110:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-02 01:54:04,012:DEBUG:test_formfillhome:Successfully submitted
+2020-07-02 02:28:46,195:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-02 02:28:46,672:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-02 02:29:00,086:DEBUG:test_formfillhome:Successfully submitted
+2020-07-02 02:35:48,188:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-02 02:35:49,092:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-02 02:36:18,450:DEBUG:test_formfillhome:Successfully submitted
+2020-07-02 02:42:27,554:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-02 02:42:28,343:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-02 02:42:41,427:DEBUG:test_formfillhome:Successfully submitted
+2020-07-03 13:31:37,424:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-03 13:31:37,955:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-03 13:31:51,062:DEBUG:test_formfillhome:Successfully submitted
+2020-07-03 13:34:00,599:INFO:test_endtoendtestcase:Moved to checkout page
+2020-07-03 13:34:01,057:INFO:test_endtoendtestcase:Moved to purchase page
+2020-07-03 13:34:13,705:DEBUG:test_formfillhome:Successfully submitted
